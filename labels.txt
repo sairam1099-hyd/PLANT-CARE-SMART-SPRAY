@@ -1,0 +1,3 @@
+0 Healthy Plants
+1 Dry Plants
+2 Diseased Plants
