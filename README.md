@@ -34,5 +34,5 @@ python main.py
 ```
 
 ## Author
+THANNERU SAI RAM
 
-Sai Charan Reddy
